@@ -1,5 +1,8 @@
 _repo: Maan-Miehen-Huone-ja-Koti-Aptheeki_74960
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ganander, Christfrid
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Cristfried_Ganander
     - https://fi.wikipedia.org/wiki/Christfried_Ganander
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74960#Maan-Miehen-Huone-ja-Koti-Aptheeki
 gutenberg_issued: '2024-12-21'
 gutenberg_type: Text
 identifiers:
